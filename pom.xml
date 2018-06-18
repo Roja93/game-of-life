@@ -501,7 +501,7 @@
         <repository>
             <id>deployment</id>
             <name>rupa</name>
-            <url>http://localhost:8081/repository/rupa</url>
+            <url>http://localhost:8081/repository/Jenkins_Snapshot/</url>
         </repository>
     </distributionManagement>
 </project>
