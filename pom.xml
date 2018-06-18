@@ -466,7 +466,7 @@
                             <xmlOutput>true</xmlOutput>
                         </configuration>
                     </plugin>
-                    <distributionManagement>
+     <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>rupa</name>
