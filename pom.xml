@@ -466,6 +466,13 @@
                             <xmlOutput>true</xmlOutput>
                         </configuration>
                     </plugin>
+                    <distributionManagement>
+        <repository>
+            <id>deployment</id>
+            <name>rupa</name>
+            <url>http://http://localhost:8081/repository/rupa</url>
+        </repository>
+    </distributionManagement>
                     
                     <plugin>
                         <artifactId>maven-javadoc-plugin</artifactId>
