@@ -470,7 +470,7 @@
         <repository>
             <id>deployment</id>
             <name>rupa</name>
-            <url>http://http://localhost:8081/repository/rupa</url>
+            <url>http://localhost:8081/repository/rupa</url>
         </repository>
     </distributionManagement>
                     
